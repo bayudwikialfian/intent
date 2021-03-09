@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">StudentID_Act1_Class</string>
+    <string name="eror_password">string</string>
+    <string name="eror_username">string</string>
+    <string name="username" type="id">string</string>
+    <string name="password" type="id">string</string>
+    <string name="btnmasuk" type="id">string</string>
+
 </resources>
