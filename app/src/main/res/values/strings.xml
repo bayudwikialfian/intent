@@ -5,5 +5,12 @@
     <string name="username" type="id">string</string>
     <string name="password" type="id">string</string>
     <string name="btnmasuk" type="id">string</string>
+    <string name="mDaftar">pendaftaran</string>
+    <string name="lDaftar">Daftar</string>
+    <string name="enama">Masukan Nama</string>
+    <string name="eemail">Masukan Email</string>
+    <string name="epass">Masukan Password</string>
+    <string name="erepass">Masukan Password Kembali</string>
+    <string name="ealamat">Masukan Alamat</string>
 
 </resources>
